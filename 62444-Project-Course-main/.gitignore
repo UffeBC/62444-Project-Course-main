@@ -1,2 +1,9 @@
 .history/*
 *.pyc
+
+# ignore the tutorials
+1_python_overview.ipynb
+2_data_science_basics.ipynb
+3_pandas_tutorial.ipynb
+4_temporal_spatial_data_analysis.ipynb
+5_nasa_data_collection_and_visualization.ipynb
